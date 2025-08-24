@@ -10,7 +10,7 @@ This dashboard was created to investigate salaries for various Data Science jobs
 The data is from Luke Barousse's Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains crucial information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
+My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
